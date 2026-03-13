@@ -7,7 +7,8 @@ int n;                  //membuat variable inputan n
 void input (){  //procedur input
     while (true){
         cout << "Masukan Jumlah Data Pada Array : ";
-        
+        cin >> n;
+
     }
 
 }
