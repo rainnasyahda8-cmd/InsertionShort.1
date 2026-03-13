@@ -17,5 +17,6 @@ void input (){  //procedur input
         }
 
     }
+    cout << endl;
 
 }
