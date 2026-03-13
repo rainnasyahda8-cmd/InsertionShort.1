@@ -10,7 +10,10 @@ void input (){  //procedur input
         cin >> n;
 
         if (n <= 20){
-            break
+            break;
+        }
+        else{
+            
         }
 
     }
