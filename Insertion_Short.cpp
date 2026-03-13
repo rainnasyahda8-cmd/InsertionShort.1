@@ -13,7 +13,7 @@ void input (){  //procedur input
             break;
         }
         else{
-            
+            cout << "\nArray Tidak Boleh Lebih dari 20\n";
         }
 
     }
